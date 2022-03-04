@@ -232,7 +232,7 @@ return [
     [
         'text' => 'To Do\'s',
         'url'  => 'todos',
-        'icon' => 'fas fa-check-circle',
+        'icon' => 'fas fa-fw fa-check-circle',
     ],
     [         
         'text' => 'Calendar',
@@ -242,7 +242,7 @@ return [
     [
         'text' => 'Board',
         'url'  => 'board',
-        'icon' => 'fas fa-clipboard',
+        'icon' => 'fas fa-fw fa-clipboard',
     ],
 ],
 
